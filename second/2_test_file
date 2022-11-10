@@ -1,0 +1,1 @@
+When you clone a repository with git clone , it automatically creates a remote connection called origin pointing back to the cloned repository. This is useful for developers creating a local copy of a central repository, since it provides an easy way to pull upstream changes or publish local commits.
